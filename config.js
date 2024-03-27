@@ -1,19 +1,19 @@
 const CONFIG = {
     introTitle: 'Lan à!',
     introDesc: `Trái đất vốn lạ thường
-    Mà sao mị cứ đi nhầm đường
-    Lạc vào tim tớ lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    Mà sao em cứ đi nhầm đường
+    Lạc vào tim ... ơ ơ
+    Lạc xuống Quy Nhơn mất rồi`,
     btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
+    title: 'Phải chăng em sẽ đi chơi với tui 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích Lâm <33',
+    btnYes: 'Vẫn cứ là đi <33',
     btnNo: 'Không, lâm à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao mị lại yêu tớ <3',
+    question:'Trên thế giới hơn 7 tỉ người nhưng mà Thỏ nên đi chơi với anh  <3',
     btnReply: 'Gửi cho Lâm <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Tớ biết mà 🥰. Yêu mị nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    reply: 'Đi thì đi mà không đi thì đi  <33333333',
+    mess: 'Tui biết mà 🥰. hehe em nhiều nhiều 😘😘',
+    messDesc: 'Chiều 5/4 anh qua đón nhé công chúa.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/hoaglam.812' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
